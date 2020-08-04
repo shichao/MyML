@@ -1,1 +1,1 @@
-# MyML
+# Machine Learning Notes
